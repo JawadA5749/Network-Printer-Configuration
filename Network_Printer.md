@@ -37,7 +37,7 @@
 
 <img width="467" height="507" alt="Image" src="https://github.com/user-attachments/assets/df51fa06-6505-4749-aea3-acb83a8e5f3d" />
 
-- You can now go to a client computer and add the network shared printer. Go to Printers and Scanners. Click on Add device. The printer should show up, but if it doesn't, try to add it manually via an IP address or hostname.  
+- You can now go to a client computer and add the network shared printer. Go to Printers and Scanners. Click on Add device. The printer should show up, but if it doesn't, try to add it manually via the IP address or hostname.  
 
 <img width="615" height="452" alt="Image" src="https://github.com/user-attachments/assets/836c4d6b-0838-4ff4-997b-5252ae568bf4" />
 <img width="620" height="445" alt="Image" src="https://github.com/user-attachments/assets/e824574e-cdf0-4cfc-bbe0-fed92fecc2ed" />
